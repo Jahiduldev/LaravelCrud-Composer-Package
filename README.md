@@ -3,4 +3,4 @@ README.md
 # Laravel Crud Package
 
 
-## This Just Crud Package Development
+## This is just crud package development
