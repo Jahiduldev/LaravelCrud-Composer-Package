@@ -1,6 +1,6 @@
 {
-    "name": "sharait/contact",
-    "description": "This Just Crud Package Development",
+    "name": "jahidul/laravelcrud",
+    "description": "This is Crud Package Development for laravel",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
