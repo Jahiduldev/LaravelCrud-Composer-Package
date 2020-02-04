@@ -1,0 +1,15 @@
+{
+    "name": "sharait/contact",
+    "description": "This Just Crud Package Development",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+
+
+    "autoload": {
+        "psr-4": {
+            "Sharait\\Contact\\": "src/"
+        }
+    }
+}
